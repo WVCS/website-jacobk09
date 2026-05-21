@@ -1,4 +1,6 @@
-	<style>
+	@charset "utf-8";
+/* CSS Document*/
+
 	body   {
 	background-color: cornflowerblue;
 }
@@ -8,7 +10,7 @@ h2 {
 text-decoration: underline wavy 5px beige;
 } 
 	
-	
+
 	
 img { 
 	
@@ -19,5 +21,3 @@ border-radius: 50%;
 img:hover {
 	border:25px dotted yellow;		
 		}
-
-	
