@@ -21,3 +21,28 @@ img:hover {
 }
 body{
 
+		list-style-type: none;
+	}
+	nav{
+		width: 100%;
+		position: fixed;
+		background-color:orange;
+		margin: 0;
+		padding: 0;
+		left: 0;
+			
+	}
+	
+	li { 
+		display: inline;
+		width: 200px;
+		padding: 15px;
+	}
+	li a {
+		color: peru;
+		text-decoration: none;
+	}
+	li:hover {
+		background-color:blue;
+	}
+	</style>
